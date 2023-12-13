@@ -1,5 +1,5 @@
-command = "Dummy"
-isActive = true
+command="Dummy"
+isActive=true
 underline=`tput smul`
 nounderline=`tput rmul`
 
